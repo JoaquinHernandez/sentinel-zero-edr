@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-zero-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
