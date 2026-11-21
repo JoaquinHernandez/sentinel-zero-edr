@@ -1,5 +1,7 @@
 # sentinel-zero-edr
 # SentinelZero — Open-Source EDR, XDR & Zero Trust Prototype
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/f8517318-9940-42ad-a81d-f8d807c20d0c" />
+
 <p align="center">
   <img src="banner.png" alt="SentinelZero Banner" width="100%" />
 </p>
